@@ -1,0 +1,12 @@
+from math import *                            #to access more math functions
+myNum=5
+print(str(myNum)+ " is my favorite number")   #need to convert to string to be able to add string
+print(abs(-5))
+print(pow(3,2))
+print(3**2)                                   # **=pow
+print(max(4,6))
+print(min(4,6))
+print(round(3.14))
+print(floor(3.74))                            #round down no matter what
+print(ceil(3.74))
+print(sqrt(49))
