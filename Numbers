@@ -10,3 +10,4 @@ print(round(3.14))
 print(floor(3.74))                            #round down no matter what
 print(ceil(3.74))
 print(sqrt(49))
+print(round(sqrt(54)))
