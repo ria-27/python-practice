@@ -1,0 +1,6 @@
+phrase="giraffe academy"
+print(phrase.upper().isupper())                     #converts to uppercase and then checks if upper
+print(phrase[3])                                    #prints 3rd index
+print(phrase.index("acad"))                         #prints starting index of characters
+print(phrase.replace("giraffe","elephant"))         #replaces old with new
+
