@@ -30,4 +30,10 @@ print(lucky_number)
 friends2=friends.copy()   #copies list to another list
 print(friends2)
 
+# tuple is a container to store different values
+## they cannot be changed or modified-therefore, for storing data that can't be changed
+coordinates=(4,5)
+print(coordinates[0]) 
+
+
 
